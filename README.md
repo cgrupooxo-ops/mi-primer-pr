@@ -2,7 +2,7 @@
 
 Pequeño proyecto de ejemplo en Python para practicar el flujo de contribución con Git y GitHub.
 
-Perimte convertir temperaturas entre Celsius y Fahrenheit desde la línea de comandos.
+Permite convertir temperaturas entre Celsius y Fahrenheit desde la línea de comandos.
 
 ## Uso
 
